@@ -1,4 +1,4 @@
-<h1 align="center">{My team page}</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -33,12 +33,12 @@ A responsive page presenting members of my team
 
 Desktop version:
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71132144/108602629-43d79f00-73a3-11eb-8588-3a96870b5d8f.png" />
+  <img src="https://user-images.githubusercontent.com/71132144/108636159-d51e4280-7483-11eb-8aef-24ae6c11a812.png" />
 </div
 
 Mobile verison:
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71132144/108602629-43d79f00-73a3-11eb-8588-3a96870b5d8f.png" />
+  <img src="https://user-images.githubusercontent.com/71132144/108636202-0d258580-7484-11eb-8ef2-e396163789df.png" />
 </div
 
 ### Built With
