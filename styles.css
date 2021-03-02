@@ -131,6 +131,11 @@ footer {
     grid-column: 1 / span 3;
 }
 
+footer a {
+    text-decoration: none;
+    color: #4F4F4F;
+}
+
 
 
 @media (max-width: 1200px) {
